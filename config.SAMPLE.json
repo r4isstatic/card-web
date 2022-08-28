@@ -2,12 +2,12 @@
 	"app_title": "My Card Collection",
 	"app_description": "My card collection is a collection of cards",
 	"firebase": {
-		"apiKey": "APIKEYHERE",
-		"authDomain": "PROJECT_ID.firebaseapp.com",
-		"databaseURL": "https://PROJECT_ID.firebaseio.com",
-		"projectId": "PROJECT_ID",
-		"storageBucket": "PROJECT_ID.appspot.com",
-		"messagingSenderId": "NUMBER"
+		"apiKey": "AIzaSyCAGru80P-RMYKZWNDmYuwW6-CzlOTal9U",
+		"authDomain": "cardwebtest.firebaseapp.com",
+		"databaseURL": "https://cardwebtest-default-rtdb.firebaseio.com",
+		"projectId": "cardwebtest",
+		"storageBucket": "cardwebtest.appspot.com",
+		"messagingSenderId": "411577184710"
 	},
 	"twitter_handle": "CHANGE-ME",
 	"backup_bucket_name": "CHANGE-ME",
